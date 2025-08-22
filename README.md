@@ -4,6 +4,9 @@ Submit ideas for mods you'd like to see here! To submit an idea:
 2. Click 'New issue' on [the issues page](https://github.com/StardewModders/mod-ideas/issues).
 3. Enter a title and description which explains your idea.
 
+> [!IMPORTANT]  
+> Each issue should describe a _single_ mod idea. Issues which list multiple separate ideas will be closed.
+
 That's it! If a modder comment on your idea or creates the mod, you'll get a notification automatically. Note that your idea is more likely to be implemented if it's simple and fits the game style.
 
 ## For modders
